@@ -52,4 +52,4 @@ import는 직접 작성하지 않고 **단축키**인 `ctrl+shift+o`를 누른�
 ![카지노] (https://i.namu.wiki/i/Tu93EDNTHxVfDsDjQEoYRQQnkNmZe1ySr70TpkyxU3kd0IoWS96oLBhl3kbl6EIKS-dXVCBkjLK4Ga1pLtZ92w.webp)
 
 오늘도 연봉이 10원 올랐습니다 
-![좋아 달려](./gif.gif)
+![좋아 달려](./gif)
