@@ -23,4 +23,4 @@ Random r = new Random();
 import java.util.Rrandom;
 ```
 
-import는 직접 작성하지 않고 단축키인 `ctrl+shift+o`를 누른다
+import는 직접 작성하지 않고 **단축키**인 `ctrl+shift+o`를 누른다   백킹 한번 씩 inline code block
